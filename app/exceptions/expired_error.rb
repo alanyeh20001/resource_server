@@ -1,0 +1,3 @@
+class ExpiredError < StandardError
+
+end

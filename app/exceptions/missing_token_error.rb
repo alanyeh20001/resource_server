@@ -1,0 +1,3 @@
+class MissingTokenError < StandardError
+
+end

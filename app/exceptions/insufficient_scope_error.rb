@@ -1,0 +1,3 @@
+class InsufficientScopeError < StandardError
+
+end

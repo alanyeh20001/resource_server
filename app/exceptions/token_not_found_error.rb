@@ -1,0 +1,3 @@
+class TokenNotFoundError < StandardError
+
+end
